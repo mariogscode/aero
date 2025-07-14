@@ -27,6 +27,6 @@ Consulta la arquitectura de despliegue, servicios AWS utilizados y costos estima
 ---
 ##  Recursos
 
-➡️ [Ver recursos](./resources.md)
+➡️ [Ver recursos](./4_resources.md)
 
 ---
