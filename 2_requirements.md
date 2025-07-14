@@ -6,6 +6,23 @@ Este documento detalla los módulos funcionales que componen la plataforma digit
 
 ---
 
+## 📑 Índice
+
+- [🗂️ Módulos Principales](#️-módulos-principales)
+  - [1. 📝 Inscripción y Registro de Proveedores](#1--inscripción-y-registro-de-proveedores)
+  - [2. 📁 Acceso a Documentación](#2--acceso-a-documentación)
+  - [3. ❓ Gestión de Consultas y Respuestas](#3--gestión-de-consultas-y-respuestas)
+  - [4. 🔄 Publicación de Modificaciones](#4--publicación-de-modificaciones)
+  - [5. 📤 Entrega Digital de Ofertas (Doble Sobre)](#5--entrega-digital-de-ofertas-doble-sobre)
+  - [6. 📊 Evaluación y Adjudicación](#6--evaluación-y-adjudicación)
+  - [7. ✅ Cierre del Concurso](#7--cierre-del-concurso)
+- [🧾 Funcionalidades Transversales (No especificas a un modulo en especifo)](#-funcionalidades-transversales-no-especificas-a-un-modulo-en-especifo)
+  - [🔐 Seguridad y Accesos](#-seguridad-y-accesos)
+  - [📬 Notificaciones Automáticas](#-notificaciones-automáticas)
+  - [🗃️ Soporte de Archivos](#️-soporte-de-archivos)
+- [📋 Consideraciones Técnicas](#-consideraciones-técnicas)
+
+
 ## 🗂️ Módulos Principales
 
 ### 1. 📝 Inscripción y Registro de Proveedores
