@@ -7,13 +7,13 @@ Este documento detalla el cronograma de desarrollo del MVP de la plataforma de c
 ## ✅ Resumen General
 ⚠️ Fechas deben ser modificadas
 
-| Fase | Fechas | Objetivos |
-|------|--------|-----------|
-| 1. Diseño y Preparación | ~~24–28 junio~~ | Infraestructura, diseño UI/UX, arquitectura técnica |
-| 2. Desarrollo Base | ~~1–19 julio~~ | Autenticación, inscripción, acceso seguro a documentos |
-| 3. Funcionalidades Clave | ~~22 jul – 9 ago~~ | Consultas, entrega digital de ofertas, evaluación |
-| 4. Integración + QA | ~~12–30 agosto~~ | Pruebas funcionales, mejoras, validaciones finales |
-| 5. Cierre y Release | ~~30 ago – 1 sep~~ | Despliegue, documentación, capacitación y entrega |
+| Fase | Fechas | Objetivos | Dias | 
+|------|--------|-----------|------|
+| 1. Diseño y Preparación | ~~24–28 junio~~ | Infraestructura, diseño UI/UX, arquitectura técnica | 4 |
+| 2. Desarrollo Base | ~~1–19 julio~~ | Autenticación, inscripción, acceso seguro a documentos | 18 |
+| 3. Funcionalidades Clave | ~~22 jul – 9 ago~~ | Consultas, entrega digital de ofertas, evaluación | 18 |
+| 4. Integración + QA | ~~12–30 agosto~~ | Pruebas funcionales, mejoras, validaciones finales | 18 |
+| 5. Cierre y Release | ~~30 ago – 1 sep~~ | Despliegue, documentación, capacitación y entrega | 1 |
 
 ---
 
