@@ -13,7 +13,8 @@ Este documento detalla el cronograma de desarrollo del MVP de la plataforma de c
 | 2. Desarrollo Base | Autenticación, inscripción, acceso seguro a documentos | 18 |
 | 3. Funcionalidades Clave | Consultas, entrega digital de ofertas, evaluación | 18 |
 | 4. Integración + QA | Pruebas funcionales, mejoras, validaciones finales | 18 |
-| 5. Cierre y Release | Despliegue, documentación, capacitación y entrega | 1 |
+| 5. Cierre y Release | Despliegue, documentación, capacitación y entrega | 2 |
+| TOTAL | 60
 
 ---
 
