@@ -5,7 +5,7 @@ Este documento detalla el cronograma de desarrollo del MVP de la plataforma de c
 ---
 
 ## ✅ Resumen General
-⚠️ Fechas deben ser modificadas
+Esto es bajo el supuesto de que los recursos esten dedicados 100%
 
 | Fase  | Objetivos | Dias | 
 |------ |-----------|------|
@@ -14,7 +14,7 @@ Este documento detalla el cronograma de desarrollo del MVP de la plataforma de c
 | 3. Funcionalidades Clave | Consultas, entrega digital de ofertas, evaluación | 18 |
 | 4. Integración + QA | Pruebas funcionales, mejoras, validaciones finales | 18 |
 | 5. Cierre y Release | Despliegue, documentación, capacitación y entrega | 2 |
-| TOTAL | 60
+| TOTAL ||60|
 
 ---
 
