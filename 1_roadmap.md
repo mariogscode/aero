@@ -9,12 +9,12 @@ Esto es bajo el supuesto de que los recursos esten dedicados 100%
 
 | Fase  | Objetivos | Dias | 
 |------ |-----------|------|
-| 1. Diseño y Preparación | Infraestructura, diseño UI/UX, arquitectura técnica | 4 |
-| 2. Desarrollo Base | Autenticación, inscripción, acceso seguro a documentos | 18 |
-| 3. Funcionalidades Clave | Consultas, entrega digital de ofertas, evaluación | 18 |
-| 4. Integración + QA | Pruebas funcionales, mejoras, validaciones finales | 18 |
-| 5. Cierre y Release | Despliegue, documentación, capacitación y entrega | 2 |
-| TOTAL ||60|
+| 1. Diseño y Preparación | Infraestructura, diseño UI/UX, arquitectura técnica | 4 | 184
+| 2. Desarrollo Base | Autenticación, inscripción, acceso seguro a documentos | 18 | 826
+| 3. Funcionalidades Clave | Consultas, entrega digital de ofertas, evaluación | 18 | 826
+| 4. Integración + QA | Pruebas funcionales, mejoras, validaciones finales | 18 | 826
+| 5. Cierre y Release | Despliegue, documentación, capacitación y entrega | 2 | 92
+| TOTAL | |60|
 
 ---
 
