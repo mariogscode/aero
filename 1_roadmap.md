@@ -4,6 +4,15 @@ Este documento detalla el cronograma de desarrollo del MVP de la plataforma de c
 
 ---
 
+## 📑 Índice
+
+- [✅ Resumen General](#-resumen-general)
+- [📅 Cronograma por Semana](#-cronograma-por-semana)
+- [📌 Consideraciones](#-consideraciones)
+- [📘 Entregables por Fase](#-entregables-por-fase)
+
+---
+
 ## ✅ Resumen General
 🟡 Esto es bajo el supuesto de que los recursos esten dedicados 100%
 
