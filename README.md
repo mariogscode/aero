@@ -22,7 +22,7 @@ Esta plataforma permite a proveedores registrarse, descargar documentación, env
 
 Consulta la arquitectura de despliegue, servicios AWS utilizados y costos estimados:
 
-➡️ [Ver plan de infraestructura y arquitectura](./infrastructure.md)
+➡️ [Ver plan de infraestructura y arquitectura](./3_infrastructure.md)
 
 ---
 ##  Recursos
