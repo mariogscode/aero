@@ -6,6 +6,7 @@ Este documento detalla el cronograma de desarrollo del MVP de la plataforma de c
 
 ## ✅ Resumen General
 🟡 Esto es bajo el supuesto de que los recursos esten dedicados 100%
+
 🟡 Este analisis esta fundamentado principalmente en el recurso de backend.
 
 | Fase  | Objetivos | Dias | 
