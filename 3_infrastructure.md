@@ -3,6 +3,20 @@
 Este documento describe los recursos de infraestructura en la nube necesarios para desplegar la plataforma de gestión de concursos comerciales en el sector de aviación utilizando **Amazon Web Services (AWS)**. Incluye soporte para autenticación y autorización mediante **Amazon Cognito**.
 
 ---
+## 📑 Índice
+
+- [☁️ Recursos en AWS](#️-recursos-en-aws)
+  - [1. 🖥️ Servidor de Aplicaciones (Frontend + Backend)](#1--servidor-de-aplicaciones-frontend--backend)
+  - [2. 🗄️ Base de Datos Relacional](#2--base-de-datos-relacional)
+  - [3. 📁 Almacenamiento de Archivos](#3--almacenamiento-de-archivos)
+  - [4. 🔐 Autenticación y Autorización](#4--autenticación-y-autorización)
+  - [5. 📬 Notificaciones por Correo](#5--notificaciones-por-correo)
+  - [6. 🔄 CICD Integración y Despliegue Continuos](#6--cicd-integración-y-despliegue-continuos)
+  - [7. 📦 Gestión del Proyecto e Incidentes](#7--gestión-del-proyecto-e-incidentes)
+- [🧰 Mejoras Opcionales](#-mejoras-opcionales)
+- [💰 Costo Estimado Mensual (Producción)](#-costo-estimado-mensual-producción)
+- [📝 Flujo de Autenticación con Cognito](#-flujo-de-autenticación-con-cognito)
+  - [➕ Registro e Inicio de Sesión](#-registro-e-inicio-de-sesión)
 
 ## ☁️ Recursos en AWS
 
