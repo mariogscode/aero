@@ -4,6 +4,16 @@ Este documento detalla el enfoque, alcance y riesgos para desarrollar la **Plata
 
 ---
 
+## 📑 Índice
+
+- [✅ ¿Es viable el desarrollo con solo 2 personas?](#-es-viable-el-desarrollo-con-solo-2-personas)
+- [📦 Alcance funcional viable](#-alcance-funcional-viable)
+- [📅 Cronograma resumido (para 2 personas)](#-cronograma-resumido-para-2-personas)
+- [👨‍💻 Roles por Recurso](#-roles-por-recurso)
+- [⚠️ Riesgos y Recomendaciones](#️-riesgos-y-recomendaciones)
+- [🧰 Herramientas Recomendadas](#-herramientas-recomendadas)
+- [💵 Estimación de Costo – Recurso Backend](#-estimación-de-costo--recurso-backend)
+
 ## ✅ ¿Es viable el desarrollo con solo 2 personas?
 
 Sí, pero bajo las siguientes condiciones:
