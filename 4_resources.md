@@ -37,7 +37,7 @@ Sí, pero bajo las siguientes condiciones:
 
 | Semana | Actividades |
 |--------|------------|
-| 1 (Jul 1–5) | Setup, arquitectura, auth Cognito, base UI |
+| 1 | Setup, arquitectura, auth Cognito, base UI |
 | 2 | Registro de proveedores + envío de correos (SES) |
 | 3 | Documentación: subida, descarga, control por proveedor |
 | 4 | Consultas y respuestas (frontend + backend) |
