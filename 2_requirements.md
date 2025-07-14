@@ -2,6 +2,8 @@
 
 Este documento detalla los módulos funcionales que componen la plataforma digital destinada a la gestión segura, trazable y eficiente de concursos comerciales en el sector aeronáutico.
 
+🟡 Estos requerimientos deben ser refinados, con el fin de evitar malentendidos, sin embargo sirven de base para el estimado enviado.
+
 ---
 
 ## 🗂️ Módulos Principales
