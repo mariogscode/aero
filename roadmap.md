@@ -1,6 +1,6 @@
 # 🗓️ Cronograma de Desarrollo – Plataforma Concursos Comerciales AVIACIÓN
 
-Este documento detalla el cronograma de desarrollo del MVP de la plataforma de concursos, con fecha de entrega final planificada para el **1 de septiembre de 2025**.
+Este documento detalla el cronograma de desarrollo del MVP de la plataforma de concursos, con fecha de entrega final planificada para el **~~1 de septiembre de 2025~~**.
 
 ---
 
