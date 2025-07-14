@@ -8,13 +8,13 @@ Esta plataforma permite a proveedores registrarse, descargar documentación, env
 
 ## 📅 Roadmap
 
-➡️ [Ver roadmap de desarrollo](./roadmap.md)
+➡️ [Ver roadmap de desarrollo](./1_roadmap.md)
 
 ---
 
 ## 📋 Requisitos
 
-➡️ [Ver requisitos funcionales y técnicos](./requirements.md)
+➡️ [Ver requisitos funcionales y técnicos](./2_requirements.md)
 
 ---
 
