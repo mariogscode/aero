@@ -113,3 +113,5 @@ Esto es bajo el supuesto de que los recursos esten dedicados 100%
 - MVP funcional completo (semana 7)
 - Plataforma probada y documentada (semana 10)
 - Versión final operativa (1 de septiembre de 2025)
+  
+➡️ [Volver al inicio](./README.md)
