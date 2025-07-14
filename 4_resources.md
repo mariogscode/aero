@@ -84,12 +84,10 @@ Sí, pero bajo las siguientes condiciones:
 
 ---
 
-## ✅ Conclusión
+## 💵 Estimación de Costo – Recurso Backend
 
-El desarrollo con solo 2 recursos es factible si:
+El recurso backend estima dedicar aproximadamente 78 horas al proyecto.
 
-- Se prioriza correctamente el alcance
-- Se reutilizan plantillas y herramientas existentes
-- Se planifica con foco en entregables semanales
-- Se mantiene una comunicación constante con los usuarios clave
+Tarifa por hora: $46 USD
 
+Costo total estimado: $3,588 USD
