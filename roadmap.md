@@ -5,7 +5,7 @@ Este documento detalla el cronograma de desarrollo del MVP de la plataforma de c
 ---
 
 ## ✅ Resumen General
-⚠️ Estas fechas deben ser modificadas
+⚠️ Fechas deben ser modificadas
 
 | Fase | Fechas | Objetivos |
 |------|--------|-----------|
